@@ -1,0 +1,22 @@
+{
+    "name": "Spirited Away",
+    "symbol": "GHB",
+    "image": "2.png",
+    "collection": {
+        "name": "Studio Ghibli Collection "
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "2.png",
+                "type": "image/png"
+            }
+        ],
+        "creators": [
+            {
+                "address": "4Byx6JxZzVL9yzGX3C8Did4P2ZsFfR63kyXXXCndKwAr",
+                "share": 100
+            }
+        ]
+    }
+}
